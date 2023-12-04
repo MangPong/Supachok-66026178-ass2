@@ -1,0 +1,48 @@
+.vert-1{
+    font-size: 25px;
+    background-color: rgb(229, 167, 229);
+    max-width: 1000px;
+    margin: 0 auto;
+    height: 100px;
+    text-align: center;
+    vertical-align: middle;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.vert-2 {
+    font-size: 16px;
+    color: white;
+    background-color: rgb(133, 73, 146);
+    max-width: 1000px;
+    margin: 0 auto;
+    height: 50px;
+    text-align: center;
+    vertical-align: middle;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.vert-3 {
+    font-size: 16px;
+    background-color: lightgray;
+    max-width: 1000px;
+    margin: 0 auto;
+    height: 550px;
+    
+}
+.indent {
+    font-size: 25px;
+    background-color: rgb(210, 123, 210);
+    text-indent: 0%;
+    height: 50px;
+    max-width: 1000px;
+    margin: 0 auto; 
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+   
+
